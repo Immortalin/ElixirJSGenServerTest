@@ -1,0 +1,7 @@
+v1.
+{<<"/home/immortalin/Development/Elixir/testproj/_build/dev/lib/exos/ebin/Elixir.Exos.Proc.beam">>,
+ 'Elixir.Exos.Proc',<<"lib/exos.ex">>,
+ ['Elixir.GenServer','Elixir.Kernel','Elixir.Module'],
+ ['Elixir.Port','Elixir.GenEvent','Elixir.String.Chars','Elixir.String',
+  erlang],
+ [],nil}.
